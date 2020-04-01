@@ -1,3 +1,3 @@
 def display_rainbow(colors)
-  puts ['red', ]
+  display_rainbow = 
   end
